@@ -1,0 +1,7 @@
+pip install langchain_groq
+pip install -U langchain-community
+pip install PyPDF
+pip install sentence_transformers
+pip install chromadb
+pip install gradio
+pip install --upgrade gradio
